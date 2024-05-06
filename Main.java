@@ -16,3 +16,4 @@ public class Main{
 
 //patterns 
 //box mai print star karne k liye using user input
+//also called as solid rectangle.
